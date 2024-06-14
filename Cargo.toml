@@ -1,0 +1,14 @@
+[package]
+name = "trans-case"
+version = "0.1.0"
+edition = "2021"
+description = "Transform case."
+authors = ["mdmahikaishar <mahikaishar@gmail.com>"]
+repository = "https://github.com/mdmahikaishar/trans-case"
+keywords = ["case", "transform", "text"]
+license = "MIT"
+readme = "README.md"
+
+[lib]
+name = "trans_case"
+path = "src/lib.rs"
